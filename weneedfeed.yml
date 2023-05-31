@@ -1,9 +1,9 @@
 selectors: &selectors
-  item_selector: ".slick-track > div > div"
-  item_image_selector: img
-  item_link_selector: a
+  item_selector: ".c-accordion__body:first-of-type > ul > li"
+  item_image_selector: ".p-backnumber-d__img > img"
+  item_link_selector: ".p-backnumber-d__view > a"
   # item_time_selector: .detail__txt--date
-  item_title_selector: .p-pickup-img__title
+  item_title_selector: ".p-backnumber-d__title > span"
 
 title: コミックライド
 
