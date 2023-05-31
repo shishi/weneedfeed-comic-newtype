@@ -10,9 +10,9 @@ title: コミックライド
 pages:
   - id: gatya
     title: ガチャを回して仲間を増やす 最強の美少女軍団を作り上げろ
-    url: https://www.comicride.jp//book/gatya/
+    url: https://www.comicride.jp/book/gatya/
     <<: *selectors
   - id: sekkache
     title: せっかくチートを貰って異世界に転移したんだから、好きなように生きてみたい
-    url: https://www.comicride.jp//book/sekkache/
+    url: https://www.comicride.jp/book/sekkache/
     <<: *selectors
